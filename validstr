@@ -1,0 +1,8 @@
+aname=(input("Enter adhar name"))
+pname=(input("Enter pan name"))
+aname=aname.lower()
+pname=pname.lower()
+if aname==pname:
+    print("Name is valid")
+else:
+    print("Name is invalid....!")
