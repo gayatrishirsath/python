@@ -1,0 +1,8 @@
+str1="            python              "
+print(str1.strip())
+
+str2="             CSS"
+print(str2.lstrip())
+
+str2="PHP              "
+print(str2.rstrip())
