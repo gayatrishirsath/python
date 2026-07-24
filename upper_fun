@@ -1,0 +1,3 @@
+str1="python language"
+print(str1.upper())
+str1.lower()
