@@ -1,0 +1,6 @@
+s1="           Data Science          "
+s2="         Python          "
+print(s1)
+print(s1.lstrip().rstrip())
+print("________________\n",s2)
+print(s2.strip())
