@@ -1,0 +1,2 @@
+s1="Data science"
+s1[:len(s1):3]
