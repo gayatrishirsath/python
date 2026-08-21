@@ -1,0 +1,2 @@
+s1="PYTHON and data science"
+s1.swapcase()
