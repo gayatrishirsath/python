@@ -1,0 +1,2 @@
+s1="python and data science"
+s1.title()
