@@ -1,0 +1,2 @@
+string1="python"
+len(string1)
