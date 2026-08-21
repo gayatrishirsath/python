@@ -1,0 +1,5 @@
+string="python is the object oriented languuage"
+x=len(string)
+print("length:",x)
+print(string[x-2])
+print(x-2)
